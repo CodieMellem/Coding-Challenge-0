@@ -1,5 +1,5 @@
 def convert_to_fahrenheit(celsius):
-    fahren = celsius * 9/5 +32
+    fahren = celsius * 9/5 + 32
     return ("{}C = {}F".format(celsius, fahren))
 
 def convert_to_celsius(fahrenheit):
