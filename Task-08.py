@@ -14,4 +14,4 @@ def convert_to_time(time):
     print("{} {}, {} {}".format(hours, hours_text, minutes, minutes_text))
 
 
-convert_to_time(142)
+convert_to_time(71)
