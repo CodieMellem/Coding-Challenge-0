@@ -11,7 +11,7 @@ def convert_to_time(time):
     else:
         minutes_text = "minute"
 
-    print("{} {} and {} {}".format(hours, hours_text, minutes, minutes_text))
+    print("{} {} , {} {}".format(hours, hours_text, minutes, minutes_text))
 
 
 convert_to_time(142)
